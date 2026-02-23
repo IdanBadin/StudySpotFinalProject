@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#161616</color>
+    <color name="bg_card">#1E1E1E</color>
+    <color name="bg_light_dark">#2A2A2A</color>
+    <color name="border_color">#333333</color>
+
+    <color name="primary_green">#26DA27</color>
+    <color name="primary_green_hover">#22C722</color>
+
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray_secondary">#9CA3AF</color>
+    <color name="text_gray_muted">#6B7280</color>
+
+    <color name="status_yellow">#F59E0B</color>
+    <color name="status_orange">#F97316</color>
+    <color name="status_red">#EF4444</color>
+    <color name="status_blue">#3B82F6</color>
+</resources>
